@@ -1,6 +1,6 @@
 # 🚂 Platform 1 Cafe
 
-Hey there! I'm John, and for the past 4 years, I've been serving up coffee and smiles at Platform 1 Cafe, nestled right on Riversdale Station in beautiful Camberwell, Victoria. This little web app is my love letter to our cafe and our wonderful customers.
+Hey there! I'm John, and over the recent years, I've been serving up coffee and smiles at Platform 1 Cafe, nestled right on Riversdale Station in beautiful Camberwell, Victoria. This little web app is my love letter to our cafe and our wonderful customers.
 
 Check out the live site at [platform1cafe.com](https://platform1cafe.com) ☕
 
