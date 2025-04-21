@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/<*>",
+      "target": "/index.html",
+      "status": "200"
+    }
+  ]
+} 
